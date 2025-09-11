@@ -11,6 +11,8 @@
 
 .navbar .nav-link {
     color: #008DE1 !important;
+    font-size:x-large !important;
+    margin: 20px;
 }
 
 .banner img {
