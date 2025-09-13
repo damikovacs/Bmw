@@ -1,0 +1,22 @@
+.navbar {
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  .container-fluid {
+      background-color: #323232;
+  }
+  
+  .navbar .nav-link {
+      color: #008DE1 !important;
+      font-size:x-large !important;
+      margin: 20px;
+  }
+  
+  .banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
